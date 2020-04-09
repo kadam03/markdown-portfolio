@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I Like to move it move it**
+
+__I like to move it move it__
+
+*You Like to*
+
+*MOVE IT!*
